@@ -1,2 +1,3 @@
 # issues
-Issue tracker for Jenkins X v3
+
+This repository is the main issue tracker for Jenkins X v3
